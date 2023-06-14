@@ -2,7 +2,7 @@
 
 **Contenido**
 
-[Clase 1 Introducción](#Clase-1-Introducción])
+[Clase 1 Introducción](#Clase-1-Introducción)
 
 [Clase 2 ¿Qué son las pruebas y por qué deberíamos hacerlas?](#Clase-2-¿Qué-son-las-pruebas-y-por-qué-deberíamos-hacerlas?])
 
@@ -164,7 +164,7 @@ Verlo y entenderlo en todos sus aspectos
 
 ![assets/img1.png](assets/img1.png)
 
-Realmente siempre existe un sesgo en el cual tendremos la posibilidad a si sea del 0.001% de tener un error, con la implementacion de nuevas tecnologias es muy posible que suceda esto por lo que sera necesario en algun momento recurrir a la actualizacion y optimizacion de las pruebas 
+Realmente siempre existe un sesgo en el cual tendremos la posibilidad a si sea del 0.001% de tener un error, con la implementacion de nuevas tecnologias es muy posible que suceda esto por lo que sera necesario en algun momento recurrir a la actualización y optimización de las pruebas. 
 
 Las pruebas son una manera de explorar, experimentar, entenderlo, entre menos entiendas el productos que estas desarrollando más errores tendrá. Las puedes hacer por cuestión de costo, prestigio o cuestiones legales.
 
@@ -174,7 +174,7 @@ Tres aspectos a considerar:
 
 ![assets/img3.png](assets/img3.png)
 
-Es necesario entender completamente aunque se tengan las mejores practicas de desarrollo o de pruebas para evitar que los defectos y errores se conviertan en re-trabajo y multiplicar los defectos o convertirlo en bola de nieve, aqui uno de los aspectos mas importantes 
+Es necesario entender completamente aunque se tengan las mejores prácticas de desarrollo de pruebas para evitar que los defectos y errores se conviertan en re-trabajo y multiplicar los defectos o convertirlo en bola de nieve, aquí uno de los aspectos mas importantes 
 
 - Estimar bien
 
@@ -182,7 +182,7 @@ Es necesario entender completamente aunque se tengan las mejores practicas de de
 
 - Saber quien es el cliente
 
-- Comunicacion con el equipo de desarrollo en los diferentes niveles y subniveles para que se pueda trabajar de una manera armoniosa y adecuada. Con esto se evita recurrir en reprocesos y estar apagando incendios
+- Comunicación con el equipo de desarrollo en los diferentes niveles y subniveles para que se pueda trabajar de una manera armoniosa y adecuada. Con esto se evita recurrir en reprocesos y estar apagando incendios.
 
 ## Clase 3 Proceso de pruebas del software y los estándares internacionales
 
@@ -190,7 +190,7 @@ Es necesario entender completamente aunque se tengan las mejores practicas de de
 
 ![assets/img4.png](assets/img4.png)
 
-- Que es Metodologia 
+- Que es Metodología 
 
 Es la parte en donde se establecen criterios o estrategias de como se va a llevar a cabo las pruebas, quien es el responsable, como se debe entregar el material, Etc.
 
@@ -200,9 +200,9 @@ Aunque se quieran hacer pruebas y no se esta preparado con el tiempo esas carenc
 
 - Herramientas
 
-Contar con las herramientas adecuadas permiten de alguna forma acelerar el trabajo como tester en cuanto a la identificacion de problemas, documentación y comunicación
+Contar con las herramientas adecuadas permiten de alguna forma acelerar el trabajo como tester en cuanto a la identificación de problemas, documentación y comunicación
 
-Es necesario tener muy bien definidas estas etapas para evitar re-procesos y que todo el equipo entienda la finalidad del mismo 
+Es necesario tener muy bien definidas estas etapas para evitar re-procesos y que todo el equipo entienda la finalidad del mismo-
 
 ![assets/img5.png](assets/img5.png)
 
@@ -283,7 +283,7 @@ Si hacemos las pruebas durante cada fase del ciclo de vida del software tendremo
 
 La calidad es una percepción entre lo deseado, analizado y lo que vamos a entregar. La calidad la define el cliente, si esa persona esta satisfecha con lo entregado hasta ahí llega la calidad.
 
-Los estandares de la IEEE(Insitute of Electrical and Electronics Engineers) (Instituto de Ingenieros Eléctricos y Electrónicos) asociación técnico-profesional mundial dedicada a la estandarización, entre otras cosas. Es la mayor asociación internacional, sin ánimo de lucro, formada por profesionales de las nuevas tecnologías.) forman parte de la documentacion y es la manera en la que define el cumplimiento de requisitos, necesidades o expectativas del cliente
+Los estandares de la IEEE(Insitute of Electrical and Electronics Engineers) (Instituto de Ingenieros Eléctricos y Electrónicos) asociación técnico-profesional mundial dedicada a la estandarización, entre otras cosas. Es la mayor asociación internacional, sin ánimo de lucro, formada por profesionales de las nuevas tecnologías.) forman parte de la documentación y es la manera en la que define el cumplimiento de requisitos, necesidades o expectativas del cliente
 
 ![assets/img11.png](assets/img11.png)
 
@@ -311,19 +311,19 @@ Dentro de las etapas existe una planificacion estandar que van a variar respecto
 
 ## Clase 6 Principios del testing moderno
 
-Los principios creados por Ellen Page y Brian Jensen es acerca del testing moderno que es la evolucion natural del testing agil
+Los principios creados por Ellen Page y Brian Jensen es acerca del testing moderno que es la evolución natural del testing ágil
 
-El desarrollo de este principio es la necesidad de que el tester y el desarrollador evoluciones en su perspectiva para que ambos trabajen como un equipo y no como dos entidades separadas
+El desarrollo de este principio es la necesidad que el tester y el desarrollador evolucionen en su perspectiva para que ambos trabajen como un equipo y no como dos entidades separadas
 
-El tester deberia enfocarse en la calidad del producto, proceso (calidad de software)
+El tester debería enfocarse en la calidad del producto, proceso (calidad de software)
 
-El desarrollador deberia enfocarse en desarrollar la aplicacion
+El desarrollador debería enfocarse en desarrollar la aplicación
 
-El tester podria ayudar a mejorar a encontrar las mejores herramientas a entender los procesos de prueba y mejorar la calidad del desarollo 
+El tester podría ayudar a mejorar a encontrar las mejores herramientas a entender los procesos de prueba y mejorar la calidad del desarollo 
 
 ![assets/img15.png](assets/img15.png)
 
-1. Nuestra prioridad es mejorar el negocio: El producto que se va a entregar al cliente permitirá hacer funcionar el negocio. Si en algún momento no quieres hacerlo, estás poniendo en riesgo ese negocio porque si el producto no se vende o no es aceptado la empresa puede cerrar o puedes perder el trabajo.
+1. Nuestra prioridad es mejorar el negocio: El producto que se va a entregar al cliente permitirá hacer funcionar el negocio. Si en algún momento no quieres hacerlo, estás poniendo en riesgo ese negocio porque si el producto no se vende o no es aceptado. la empresa puede cerrar o puedes perder el trabajo.
 
 2. Nosotros aceleramos el equipo y usamos modelos como Lean Thinking y Teoría de las Restricciones para ayudar a identificar, priorizar y mitigar cuellos de botella en el sistema: Cuando queremos hacer algo, lo queremos hacer perfecto y eso puede ser demasiado. Deberías construir en base a procesos cortos para poder encontrar los defectos de una manera más rápida.
 
@@ -367,7 +367,7 @@ Análisis y Limpieza de datos, omite tener un set de pruebas amplio donde la var
 
 ### SDET: 
 
-Es la combinacion de un desarrollador que ya sabe hacer pruebas. Con la diferencia de automatiza y hace uso de herramientas que organizan la operación de la entrega de las pruebas. Esta persona se asegura de que las pruebas se ejecuten antes de liberar el código.
+Es la combinacion de un desarrollador que ya sabe hacer pruebas. Con la diferencia que automatiza y hace uso de herramientas que organizan la operación de la entrega de las pruebas. Esta persona se asegura de que las pruebas se ejecuten antes de liberar el código.
 
 El programador ahora sabe hacer pruebas y conoce de herramientas que le permite entregarlas de una manera automatizada.
 
@@ -401,9 +401,9 @@ Elementos para crear un proyecto de software tienen que ver con el presupuesto, 
 
 Si un proyecto no tiene suficiente dinero para tener el equipo necesario de personas e infraestructura no se va a poder llevar a cabo
 
-Si no se cuenta con el equipo de recurso humano ideal e idoneo con el conocimiento el proyecto peude que no se lleve a cabo o por lo menos puede pasar que no se cumpla el tiempo estimado del mismo
+Si no se cuenta con el equipo de recurso humano ideal e idoneo con el conocimiento el proyecto puede que no se lleve a cabo o por lo menos puede pasar que no se cumpla el tiempo estimado del mismo
 
-Los costos tambien pueden llegar a incrementar
+Los costos también pueden llegar a incrementar
 
 ![assets/img19.png](assets/img19.png)
 
@@ -411,13 +411,13 @@ Los costos tambien pueden llegar a incrementar
 
 ## Etapa de Analisis
 
-- Revision con el cliente y equipo
+- Revisión con el cliente y equipo
 
-- Documentacion
+- Documentación
 
 - Pruebas de requerimientos del cliente
 
-- Alcance y necesidad del cliente y como puedo empezar a abordar los problemas que se puedan llegar a aparecer por mas ambiguos que sean y tambien como voy a confirmar que un requerimiento se cumpla
+- Alcance y necesidad del cliente y como puedo empezar a abordar los problemas que puedan llegar a aparecer por mas ambiguos que sean y también como voy a confirmar que un requerimiento se cumpla
 
 ## Etapa de Diseño
 
@@ -429,19 +429,19 @@ Los costos tambien pueden llegar a incrementar
 
 ## Etapa de codigo
 
-- Revision e implementacion de modulos, funciones o bases de datos
+- Revisión e implementación de módulos, funciones o bases de datos
 
-- Verificacion de lo que esta en el backend y en lo posible si existe el Frontend
+- Verificación de lo que está en el backend y en lo posible si existe el Frontend
 
-- Revision de las mejores practicas para la implementacion y desarrollo del software
+- Revisión de las mejores prácticas para la implementación y desarrollo del software
 
 ## Etapa de pruebas
 
-- Pruebas de transmision de datos en distintos dispositivos
+- Pruebas de transmisión de datos en distintos dispositivos
 
-- Confirmacion de los requerimientos del cliente a traves de la validacion y verificacion
+- Confirmación de los requerimientos del cliente a través de la validación y verificación
 
-- Pruebas de aceptacion donde el usuario final acepta el producto requerido pero se debe tener que cuenta que antes de entregar al cliente final se tuvieron que haber hecho todas las pruebas posibles en las anteriores etapas
+- Pruebas de aceptación donde el usuario final acepta el producto requerido pero se debe tener en cuenta que antes de entregar al cliente final se tuvieron que haber hecho todas las pruebas posibles en las anteriores etapas
 
 ## Clase 9 Estrategia de pruebas
 
@@ -475,7 +475,7 @@ https://mindmup.com
 
 ### ¿Que es testing?
 
-Es la exploración de una idea, aprender a conocer como sucede un flujo, como se generan datos, como se llena un formulario y genere nuevos resultados
+Es la exploración de una idea, aprender a conocer como sucede un flujo, como se generan datos, como se llena un formulario y esto genere nuevos resultados. El testing nunca termina, es infinito y siempre se hace pensando en el negocio.
 
 ### ¿Que es cheking?
 
@@ -485,7 +485,7 @@ Es cuando se sabe que ya sucede algo y se verifica que sigue pasando
 
 - Solo se ejecutan si ... sucede algo
 
-- Se ejecutan cada que ... libere
+- Se ejecutan cada que ... libere nuevo software
 
 - Se ejecutan de manera programada 
 
@@ -493,7 +493,7 @@ Es cuando se sabe que ya sucede algo y se verifica que sigue pasando
 
 ![assets/img24.png](assets/img24.png)
 
-- **Pruebas duplicadas:** Al no tener una buena organización o comunicación con el equipo, la cobertura de pruebas puede ser duplicada, por ejemplo que algún otro miembro ya probó
+- **Pruebas duplicadas:** Al no tener una buena organización o comunicación con el equipo, la cobertura de pruebas puede ser duplicada, por ejemplo que algún otro miembro ya probó lo mismo.
 
 - **Pruebas similares:** A veces se pueden crear pruebas que tienen que ver con el mismo flujo.
 
@@ -507,45 +507,58 @@ La automatización de pruebas consiste en el uso de software especial para contr
 
 Sin embaro, se trata de un checking repetitivo y automatizado.
 
+### Desventajas checking mal empleado
+- Pobre cobertura de pruebas.
+- Falta de actualización.
+- Mal manejo de versiones.
+
+### Ventajas checking bien empleado
+- Correr pruebas en paralelo o en múltiples plataformas.
+- Reducción de error humano.
+- Probar grandes cantidades de datos.
+
 ![assets/img25.png](assets/img25.png)
 
 ![assets/img26.png](assets/img26.png)
+
+Cuando queremos hablar de integración continua y Liberación continua, entonces la automatización es la solucion definitiva para la eficiencia del equipo de desarrollo digital y equipos DevOps.
 
 ## Clase 11 Testing ágil
 
 ![assets/img27.png](assets/img27.png)
 
-Involucra a todos, no solo el tester, todos en el equipo son tester. La persona con este rol se aseguran de la mayor cobertura de pruebas tomando en cuenta todas las necesidades que cada uno de los miembros del equipo también esta intentando hacer que funcione. El tester tiene que definir si se esta cumpliendo con los requerimientos funciones y los del equipo, al final, sera el apoyo que dara dando retroalimentacion y viendo como puede dar funcionalidad para tener finalmente un proyecto o servicio optimo.
+Involucra a todos, no solo el tester, todos en el equipo son tester. La persona con este rol se aseguran de la mayor cobertura de pruebas tomando en cuenta todas las necesidades que cada uno de los miembros del equipo también esta intentando hacer que funcione. El tester tiene que definir si se esta cumpliendo con los requerimientos funcionales y los del equipo, al final, sera el apoyo que estrá dando retroalimentación y viendo como puede dar funcionalidad para tener finalmente un proyecto o servicio óptimo.
 
 ### Estrategias Ágiles:
 
 - El testing es de “todo el equipo”
 
-- El testing puede ser independiente
+- El testing puede ser independiente (opcional).
 
-- Integración continua
+- Integración continua.
 
-- Testing guiado por pruebas (Test Driven Development)
+- Testing guiado por pruebas (Test Driven Development - TDD)
 
-- Desarrollo guiado por comportamiento (Behaviour Driven Development)
+- Desarrollo guiado por comportamiento (Behaviour Driven Development BDD)
 
-- Desarrollo guiado por las pruebas de aceptación (Acceptance Test Driven Development)
+- Desarrollo guiado por las pruebas de aceptación (Acceptance Test Driven Development- ATDD)
 
-La finalidad de este es que entre todos puedan pensar como hacer pruebas teniendo distintos entornos y ambientes que se puedan llegar a presentar en una aplicacion cualquier contando con los detalles mas minimos para que el producto tenga todas las caracteristicas donde si hay un sesgo de error no se note con la funcionalidad del producto.
+La finalidad de este es que entre todos puedan pensar como hacer pruebas teniendo distintos entornos y ambientes que se puedan llegar a presentar en una aplicación cualquier contando con los detalles mas mínimos para que el producto tenga todas las caracteristicas donde si hay un sesgo de error no se note con la funcionalidad del producto.
 
 ## Clase 12 Niveles de pruebas
 
 Es ver las estrategias de como poder probar elementos por capas, componentes, niveles de estructura, etc.
 
-Como separar las pruebas para que la cobertura que vayamos teniendo tenga una mejor descripcion, comprension y en la parte de desarrollo sea mas complementaria, pasando de los componentes, a la integracion y pruebas totales
+Como separar las pruebas para que la cobertura que vayamos teniendo tenga una mejor descripción, comprensión y en la parte de desarrollo sea más complementaria, pasando de los componentes, a la integración y pruebas totales
 
 ### Nivel de pruebas de componentes
 
-Los componentes son aquellas pequeñas cosas que se pueden ver por ejemplo cuando uno ve un video y esta el boton de play, pausa, like, etc. Pueden ser tambien componentes del formulario 
+Los componentes son aquellas pequeñas cosas que se pueden ver por ejemplo cuando uno ve un video y esta el boton de play, pausa, like, etc. Pueden ser también componentes del formulario. 
+Las pruebas que hacemos aquí no tienen que ver con todo el flujo, sino con un componente específico.
 
 ### Pruebas de integración
 
-Una aplicación tiene una serie de componentes que trabajando juntos forman un pequeño sistema, pero cuando tienes varios de estos sistemas necesitas integrarlos entre ellos, como desde el inicio hasta el final de un flujo de negocio todos los componentes se comunican, como entran y salen los datos.
+Una aplicación tiene una serie de componentes que trabajando juntos forman un pequeño sistema, pero cuando tienes varios de estos sistemas juntos, necesitas integrarlos entre ellos, como desde el inicio hasta el final de un flujo de negocio todos los componentes se comunican, se integran, como entran y salen los datos.
 
 ### Prueba de sistema 
 
@@ -557,29 +570,39 @@ Si ya probamos que nuestro elemento o acción funcionan, estás pruebas nos aseg
 
 ## Clase 13 Tipos de pruebas
 
-Necesitamos tener otra clasificación adicional. En los niveles sabemos la profundidad de las pruebas, pero en los tipos independientemente de su profundidad son las técnicas que vamos a usar para encontrar los defectos.
+Necesitamos tener otra clasificación adicional. En los niveles sabemos la profundidad de las pruebas, pero en los tipos es independientemente de la profundidad de la prueba son las técnicas  que vamos a emplear para encontrar los defectos.
+Cuando hablamos de tipos de pruebas, nos estamos refieriendo, al grupo de actividades específicas que vamos a realizar, esto basado en objetivos.
 
 ### Pruebas funcionales 
 
-Cómo funciona un sistema, qué debe estar haciendo, cómo está interactuando el usuario con él.
+Cómo funciona un sistema?. qué debe estar haciendo? cómo está interactuando el usuario con él?.
+Se entiende como las Funcionalidades del Sistema como "lo que el sitema hace".
+Lo que busca esta prueba es que, lo que estes probando funcione como corresponde.
 
 ### Pruebas no funcionales 
 
-El usuario puede estar experimentando otro tipo de cosas que aún funcionando puede tener la sensación de lentitud, falta de legibilidad o claridad. Esas características de usabilidad están asociadas a estas pruebas.
+El usuario puede estar experimentando otro tipo de cosas que aún funcionan, puede tener la sensación de lentitud, falta de legibilidad o claridad. Esas características de usabilidad están asociadas a estas pruebas.
+El objetivo de esta es probar "como funciona el sistema". ejemplo accesibilidad, usabilidad, la parte visual y de performance.
 
 ### Pruebas estructurales 
 
-Tienen que ver con la tecnología y el stack usado para construir nuestro producto. Nos tenemos que asegurarnos que nuestra base de datos o servidor funcionen de la manera correcta. Son conocidas como pruebas de caja blanca.
+Tienen que ver con la tecnología y el stack que se está usado para construir nuestro producto. Tenemos que asegurarnos que nuestra base de datos o servidor funcionen de la manera correcta. Son conocidas como pruebas de caja blanca.
+Para poder llevar a cabo estas pruebas, normalmente el tester debe tener conocimientos acerca de la tecnología y stack que se está empleando.
 
 ### Prueba de manejo de cambios 
 
 Es probar nuevamente un componente ya probado para verificar que no ha sido impactado por actualizaciones.
 
-Estas serian la clasificacion de actividades de cuando se prueba en el Frontend, Backend o la estructura, en base a cambios, nuevas caracteristicas o cuando se estan arreglando defectos
+Estas prubas se realizan, cuando se hizo una actualización en nuestra app, o sufrio cualquier tipo de cambio, el cual hay que volver a realizar las prubas sobre el componente o sistema completo.
 
 ## Clase 14 Pruebas estáticas y dinámicas
 
-Generalmente se espera que el tester siempre este ejecutando pruebas pero muchas veces, las pruebas estaticas no son consideradas durante el desarrollo porque este tipo de pruebas incluyen que se este leyendo documentación, analizando software, comparando, haciendo un planteamiento diseñando el plan de pruebas
+Generalmente se espera que el tester siempre este ejecutando pruebas pero muchas veces, las pruebas estáticas no son consideradas durante el desarrollo porque este tipo de pruebas incluyen que se este leyendo documentación, analizando software, comparando, haciendo un planteamiento o incluso diseñando el plan de pruebas.
+En sintesis, las pruebas estáticas se basan en la examinación manual de los elementos que conforman la contrucción del software.
+
+Las pruebas dinámicas se enfocan principalmente en comportamientos externos visibles durante la ejecución del software.
+
+
 
 ![assets/img28.png](assets/img28.png)
 
@@ -587,30 +610,30 @@ Generalmente se espera que el tester siempre este ejecutando pruebas pero muchas
 
 ### ¿Qué son los elementos?
 
-- Contratos, planes y calendario del proyecto, asi como su presupuesto.
+- Contratos, planes y calendario del proyecto, así como su presupuesto.
 
 - El análisis de requerimientos
 
-- Especificaciones o regras de negocio
+- Especificaciones o reglas de negocio
 
-    - Tecnicos
+    - Técnicos
 
     - Seguridad 
 
 
-Es cuestionar que elementos a lo mejor no esta incluyendo el cliente y el tester esta para preguntar qué, como, de que manera, debe hacer el desarrollador para incluir elementos que no se estan especificando en un principio pero que van a ser necesarios en la funcionalidad del producto que esta solicitando el cliente 
+Es cuestionar que elementos a lo mejor no esta incluyendo el cliente y el tester esta para preguntar qué, cómo, de que manera, debe hacer el desarrollador para incluir elementos que no se estan especificando en un principio pero que van a ser necesarios en la funcionalidad del producto que esta solicitando el cliente 
 
 - Las definiciones de 
 
     - Historias del usuario
 
-    - Criterios de aceptacion
+    - Criterios de aceptación
 
     - Mockups
 
 - El diseño de la arquitectura
 
-- Las pruebas (Testware), puntos de verificacion, (Pruebas clave)
+- Las pruebas (Testware), puntos de verificación, (Pruebas claves, para agilizar las pruebas en el menor tiempo posible)
 
 - Guias de usuario
 
@@ -674,13 +697,15 @@ Es cuestionar que elementos a lo mejor no esta incluyendo el cliente y el tester
 
 Si cuando encuentra problemas no sabe documentar y reproducir los pasos correctos su testing genera retrabajo y sube el costo
 
-Si como representate de la calidad del producto no sabe argumentar y proteger los intereses del negocioo los clientes, entonces su testing no agregar valor
+Si como representate de la calidad del producto no sabes argumentar y proteger los intereses del negocio y los clientes, entonces su testing no agregar valor.
+
+
 
 ### ¿Qué debe de contener un caso de prueba?
 
 Debe tener:
 
-- nombre: corta descripcion de lo que se va a realizar
+- nombre: corta descripción de lo que se va a realizar
 
 - descripción: Explicación de que se trata la prueba
 
@@ -696,28 +721,31 @@ Debe tener:
 
 Se llaman pruebas de caja porque es la manera de observar el contenido del software.
 
-Los modelos de caja negra es cuando por ejemplo en un computador no vemos como fue construido, se puede referenciar dentro del desarrollo como la parte del Backend, el codigo, no sabemos de arquitectura, si no la unica noción que tenemos es la interfaz con la que interactua el usuario
+# Caja Negra
+Los modelos de caja negra es cuando por ejemplo en un computador no vemos como fue construido, se puede referenciar dentro del desarrollo como la parte del Backend, el código, no sabemos de arquitectura, si no la única noción que tenemos es la interfaz con la que interactua el usuario
 
 ### Pruebas de caja negra
+No conocemos como esta contruido el software, solo estamos probando desde la interfaz que utiliza el usuario.
 
-- **Partición de equivalencia:** Que tipo de informacion dentro de los tipos de datos deberia contener por ejemplo un formulario, enteros, flotantes
+- **Partición de equivalencia:** Nos referimos a esos grupos de datos que pueden entrar, tanto para casos exitosos, como para casos no exitosos. 
 
-- **Valores límite:** Establecer limites por ejemplo un maximo de digitos en una fraccion en pesos.
-    Que pasa si coloco una fraccion de 90.001 o 90.000.001 o 90.000.00001
+- **Valores límite:** Establecer limites por ejemplo un máximo de dígitos en una fracción en pesos.
+    Que pasa si coloco una fracción de 90.001 o 90.000.001 o 90.000.00001
 
-- **Tabla de decisiones:** Aplica para casos donde existen check box o listas y son valores fijos, no le corresponde la opcion de establecer un criterio a los usuarios
+- **Tabla de decisiones:** Aplica para casos donde existen check box o listas y son valores fijos, no le corresponde la opción de establecer un criterio a los usuarios
 
-- **Transición de estados:** Como el componente se comporta 
+- **Transición de estados:** Como el componente se comporta.
 
-- **Casos de usos:** Por ejemplo donde un usario puede llenar un formulario y enviarlo o los campos son obligatorios y no puede pasar al siguiente campo hasta no completar los que son obligatorios
+- **Casos de usos:** Por ejemplo donde un usario puede llenar un formulario y enviarlo sin los campos obligatorios y no puede pasar al siguiente campo hasta no completar los que son obligatorios
 
+# Caja Blanca
 Los modelos de caja blanca es llamada en ocasiones caja de cristal, se puede referenciar dentro del desarrollo como la parte del Frontend, donde se puede ver todo lo que hay adentro e incluso es posible ser parte del equipo que esta desarrollando software 
 
 ### Pruebas de caja blanca
 
-- **Cobertura de declaración:** Es todo aquello que esta dentro del codigo y se pide hacer, es decir que cada linea de codigo realizada se ejecute por lo menos una vez, debe tener una cobertura medible por porcentaje
+- **Cobertura de declaración:** Es todo aquello que está dentro del código y se pide hacer, es decir que cada línea de código realizada se ejecute por lo menos una vez, debe tener una cobertura medible por porcentaje
 
-- **Cobertura de codigo:** Es eliminar todo tipo de codigo que sea innecesario en el producto o proyecto teniendo en cuenta:
+- **Cobertura de codigo:** Es eliminar todo tipo de código que sea innecesario en el producto o proyecto teniendo en cuenta:
     
     - Sentencias
 
@@ -725,15 +753,16 @@ Los modelos de caja blanca es llamada en ocasiones caja de cristal, se puede ref
 
     - Condiciones 
 
+# Caja Gris
 Los modelos de caja gris es donde se realizan integraciones, viene siendo un punto intermedio entre la caja blanca y la caja negra y podemos ver los datos como fluyen o se transmiten de un lugar a otro
 
 ### Pruebas de caja gris
 
-- **Casos de negocios:** Como el usuario esta interactuando en el Frontend o la interfaz y como esta respondiendo el producto es decir todo lo que va al Backend, se transforma y de que forma regresa la informacion al Frontend de nuevo. Es decir datos de entrada y salida
+- **Casos de negocios:** Como el usuario esta interactuando en el Frontend o la interfaz y como esta respondiendo el producto es decir todo lo que va al Backend, se transforma y de que forma regresa la información al Frontend de nuevo. Es decir datos de entrada y salida
 
-- **Pruebas End-to-End:** Se refiere por ejemplo a la creacion de un usuario para una aplicacion pero no necesariamente se tiene que ver como quedo en la salida y posiblemente no se vea el resultado pero se visualiza en otro entorno
+- **Pruebas End-to-End:** Se refiere por ejemplo a la creación de un usuario para una aplicación pero no necesariamente se tiene que ver como quedo en la salida y posiblemente no se vea el resultado pero se visualiza en otro entorno
 
-- **Pruebas de integración:** Es ver como se estan transmitiendo los datos del Frontend al Backend 
+- **Pruebas de integración:** Es ver como se están transmitiendo los datos del Frontend al Backend 
 
 
 ![assets/img37.png](assets/img37.png)
@@ -774,7 +803,7 @@ Los modelos de caja gris es donde se realizan integraciones, viene siendo un pun
 
 ## Clase 18 Roles y Responsabilidades
 
-- **Especialista en pruebas manuales:** Entre las habilidades que debería de tener, es el pensamiento lateral, en la parte de organización, diseño y documentación, debería de ser el especialista en entender cuáles son los casos de uso que se van a llevar para cada área, debe de poder organizarse y asignar trabajo para sí mismo dependiendo las prioridades del negocio, los riesgos o el impacto.
+- **Especialista en pruebas manuales:** Entre las habilidades que debería de tener, es el pensamiento lateral, en la parte de organización, diseño y documentación, debería de ser el especialista en entender cuáles son los casos de uso que se van a llevar a cabo para cada área, debe de poder organizarse y asignar trabajo para sí mismo dependiendo las prioridades del negocio, los riesgos o el impacto.
 
 - **Especialista en pruebas técnicas:** Esta persona se tiene que encargar de estar siempre actualizada en las herramientas que le permitan acelerar el trabajo, mejorar el trabajo, búsqueda, continuo entrenamiento, ser autodidacta.
 
@@ -814,13 +843,13 @@ También es necesario medir el rendimiento de nuestro trabajo y herramientas que
 
 Otra forma es analizando los resultados de las pruebas. Es ver cuantas de ellas se han ejecutado, cuantas no han pasado, cuantas derivaron defectos o que no le permitio continuar el traajo.
 
-El desempeño del testing, Que circunstancias permiten o no realizar el trabajo, como por ejemplo el que una persona no vaya un dia al trabajo, el cliente no entregue alguna especificacion, el equipo no es adecuado, se fue el internet.
+El desempeño del testing, Que circunstancias permiten o no realizar el trabajo, como por ejemplo el que una persona no vaya un dia al trabajo, el cliente no entregue alguna especificación, el equipo no es adecuado, se fue el internet.
 
 **¿Cuando sucede el retrabajo?**
 
 ![assets/img48.png](assets/img48.png)
 
-**Retrabajo:** Es la principal causa del retraso, de que la estimación de tiempo falle, de que costos suban. Cuando estos suceden aumentamos exponencialmente el trabajo de todos
+**Retrabajo:** Es la principal causa del retraso, de que la estimación de tiempo falle, de que los costos suban. Cuando estos suceden aumentamos exponencialmente el trabajo de todos
 
 - Falta o mala documentación
 
@@ -868,25 +897,25 @@ La mala administración, malas prácticas o falta de seguimiento entorpece las t
 
 ![assets/img48.png](assets/img49.png)
 
-- El ciclo de gestion comienza con el reporte, es revisado y se considera en estatus abierto porque aun no ha sido resuelto
+- El ciclo de gestión comienza con el reporte, es revisado y se considera en estatus abierto porque aun no ha sido resuelto
 
 - Una vez se define que se va a reparar se asigna un desarrollador para atender el caso
 
-- Cuando se repara el estatus pasa a arreglado
+- Cuando se repara el estatus pasa a ser arreglado
 
-- Si la confirmacion es exitosa se cierra el caso
+- Si la confirmación es exitosa se cierra el caso
 
-- Si ocurre un defecto nuevamente pasa al ciclo de gestión nuevamente y dependiendo el caso se reescribe el reporte y se analiza si debe ser aceptado, rechazado o se puede tomar como una sugerencia, luego pasa a estatus reabierto y nuevamente se trabaja sobre la reparacion del reporte y posteriormente en caso que la confirmacion se exitosa, nuevamente se cierra el caso
+- Si ocurre un defecto nuevamente pasa al ciclo de gestión nuevamente y dependiendo el caso se reescribe el reporte y se analiza si debe ser aceptado, rechazado o se puede tomar como una sugerencia, luego pasa a estatus reabierto y nuevamente se trabaja sobre la reparación del reporte y posteriormente en caso que la confirmación sea exitosa, nuevamente se cierra el caso
 
 ![assets/img50.png](assets/img50.png)
 
-Se debe tener en cuenta que la persona debe ser responsable y reportar o abrir nuevos casos o tickets para que se trabaje eficientemente en los cambios y no significa que se deba agregar algo mas de lo solicitado, si no unicamente trabajar en el reporte y comuunicar eficientemente los cambios para que sean revisados por el equipo o el lider del proceso
+Se debe tener en cuenta que la persona debe ser responsable y reportar o abrir nuevos casos o tickets para que se trabaje eficientemente en los cambios y no significa que se deba agregar algo mas de lo solicitado, si no únicamente trabajar en el reporte y comunicar eficientemente los cambios para que sean revisados por el equipo o el lider del proceso
 
 ## Clase 23 Defectos y sugerencias
 
 **Defectos**
 
-Es aquello que no cumple los requerimientos funcionales, de diseño, arquitectura y es la consecuencia de un error humano o intepretacion con la cual se construyo un software
+Es aquello que no cumple los requerimientos funcionales, de diseño, arquitectura y es la consecuencia de un error humano o intepretación con la cual se construyo un software
 
 **Sugerencia**
 
@@ -906,15 +935,15 @@ Se debe tener la plantilla para realizar el reporte
 
 ![assets/img55.png](assets/img55.png)
 
-En este caso se toma un Screenshot para ampliar la informacion que se esta comunicando
+En este caso se toma un Screenshot para ampliar la información que se esta comunicando
 
 ![assets/img54.png](assets/img54.png)
 
-se pueden tomar datos de donde proviene la informacion que se esta reportando
+se pueden tomar datos de donde proviene la información que se esta reportando
 
 ![assets/img56.png](assets/img56.png)
 
-Tambien se pueden añadir campos de ser necesarios a la plantilla de reporte para documentar el caso reportado
+También se pueden añadir campos de ser necesarios a la plantilla de reporte para documentar el caso reportado
 
 ![assets/img57.png](assets/img57.png)
 
@@ -950,7 +979,41 @@ se deben observar:
 
 - Verificación sintáctica y lógica
 
-## Clase 25 Técnicas de depuración
+## Clase 25 Pruebas de verificación
+
+Las pruebas de verificación sirve para confirmar que un cambio se haya hecho o un defecto se haya corregido. Queremos verificar que lo que estamos buscando está en los requerimientos o documentación.
+
+**Pruebas de verificación**
+
+- Tratan de reproducir el escenario fallido con los dato usados. Pero sería un error usar los mismo datos para después asumir que el error fue corregido.
+
+- Se buscan nuevos escenarios donde se utilicen valores relativos. Como Otras plataformas, otros sistemas operativos, otros exploradores, otros dispositivos
+
+**Pruebas de regresión**
+
+- La matrices de pruebas cuando se implementan otros dispositivos u otros exploradores nos ayuda a tenerlos en cuenta nuestros puntos de verificación para que no sufran un impacto.
+
+- La matrix de prueba nos funciona para casos donde no solo vemos los defectos sino que todo lo que ya funciona siga funcionando.
+
+- Nos ayuda a tener una claridad con los casos de prueba claves que pueden ser automatizados.
+
+**Documentación**
+
+Se procura actualizar la documentación: 
+
+- Comentarios en el código
+
+- Documentación técnica
+
+- Pruebas unitarias
+
+- Pruebas específicas
+
+- Matrices de pruebas
+
+- Plan de pruebas
+
+## Clase 26 Técnicas de depuración
 
 Deben ir cambiando de ser reactivas a ser preventivas. Si ya podemos observar a través de estas herramientas cómo se está utilizando la información, hacia dónde viaja, quién responde, deberíamos también recordar que parte de los principios del testing moderno es tratar de ir corrigiendo nuestras técnicas, implementar mejores prácticas y hacer uso de mejores herramientas. El debugging debería de ser la última alternativa.
 
@@ -990,39 +1053,6 @@ Fase2 para corregir el error
 
     - Comenzar a depurar
 
-## Clase 26 Pruebas de verificación
-
-Las pruebas de verificación sirve para confirmar que un cambio se haya hecho o un defecto se haya corregido. Queremos verificar que lo que estamos buscando está en los requerimientos o documentación.
-
-**Pruebas de verificación**
-
-- Tratan de reproducir el escenario fallido con los dato usados. Pero sería un error usar los mismo datos para después asumir que el error fue corregido.
-
-- Se buscan nuevos escenarios donde se utilicen valores relativos. Como Otras plataformas, otros sistemas operativos, otros exploradores, otros dispositivos
-
-**Pruebas de regresión**
-
-- La matrices de pruebas cuando se implementan otros dispositivos u otros exploradores nos ayuda a tenerlos en cuenta nuestros puntos de verificación para que no sufran un impacto.
-
-- La matrix de prueba nos funciona para casos donde no solo vemos los defectos sino que todo lo que ya funciona siga funcionando.
-
-- Nos ayuda a tener una claridad con los casos de prueba claves que pueden ser automatizados.
-
-**Documentación**
-
-Se procura actualizar la documentación: 
-
-- Comentarios en el código
-
-- Documentación técnica
-
-- Pruebas unitarias
-
-- Pruebas específicas
-
-- Matrices de pruebas
-
-- Plan de pruebas
 
 ## Clase 27 Automatización de pruebas
 
@@ -1037,11 +1067,11 @@ En esta unidad vamos a conocer las bases para la automatización de pruebas y po
 
 - **Pruebas funcionales o de aceptación:** Estas pruebas no necesariamente forman parte de los requerimientos especificados por el cliente, una recomendación para automatizar estas pruebas es que deban cumplir con los requerimientos dados por el cliente.
 
-- **Test Driven Development:** 
+- **Test Driven Development: TDD** 
 
     ![assets/img63.png](assets/img63.png)
 
-    El desarrollo va a estar enfocado haciendo primera las pruebas y después el código. Haciendo que el desarollo sea muy específico con la mayor cobertura y no pongamos líneas de código que no van a funcionar o no se usan.
+    El desarrollo va a estar enfocado haciendo primero las pruebas y después el código. Haciendo que el desarollo sea muy específico con la mayor cobertura y no pongamos líneas de código que no van a funcionar o no se usan.
 
     - Escribimos una prueba
 
@@ -1051,7 +1081,7 @@ En esta unidad vamos a conocer las bases para la automatización de pruebas y po
 
     - Ejecutamos la prueba: Pasa
 
-- **Behavior Driven Development:** 
+- **Behavior Driven Development:BDD** 
 
     ![assets/img64.png](assets/img64.png)
 
